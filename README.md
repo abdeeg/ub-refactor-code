@@ -30,18 +30,8 @@ To fix this, I remembered that `img` tags are self closing hence, not needing th
 
 Lastly for my challenge, I reorganised my CSS style page to group up relevant styling and added some comments. 
 
-
-
-
-
-
-
-
-
-
-
-
 ### Github Repo link 
 https://github.com/abdeeg/ub-refactor-code
 
 ### Deployed page link
+https://abdeeg.github.io/ub-refactor-code/
